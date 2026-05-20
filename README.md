@@ -90,7 +90,7 @@ java Main
 
 
 
-*The console will display: `Advanced AoA Backend Server running on port 8080*`
+The console will display: `Advanced AoA Backend Server running on port 8080*`
 3. **Launch the Frontend:**
 Simply open the `login.html` or `index.html` file in any modern browser to interact with the system.
 
